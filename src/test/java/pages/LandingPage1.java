@@ -25,7 +25,7 @@ public class LandingPage1 {
 
 	public void enteremailid()	{
 
-		driver.findElement(txt_emailid).sendKeys("molly@gmail.com");
+		driver.findElement(txt_emailid).sendKeys("zen@gmail.com");
 
 	}
 
