@@ -133,7 +133,7 @@ public class SignInPage1 {
 
 	public void login() {
 		driver.findElement(txt_signin).click();
-		driver.findElement(txt_emailid).sendKeys("molly@gmail.com");
+		driver.findElement(txt_emailid).sendKeys("zen@gmail.com");
 		driver.findElement(txt_password).sendKeys("XYZ@202");
 		driver.findElement(txt_submitlogin).click();
 	}
